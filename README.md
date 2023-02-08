@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-git engineering
+#!/bin/bash
+echo "this is a readme file"
