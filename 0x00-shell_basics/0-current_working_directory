@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "You are not allowed to use backticks, &&, || or ;"
+echo "chmod u+x 0-current_working_directory"
