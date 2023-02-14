@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'ATD' 'NGQ'
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
